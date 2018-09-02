@@ -7,7 +7,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
   },
-  "homepage": "https://shinodogg.github.io/react-tutorial",
+  "homepage": "https://shinodogg.github.io/Getting-Started-with-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
